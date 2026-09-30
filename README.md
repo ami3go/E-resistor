@@ -9,6 +9,7 @@ E-Resistor is a programmable resistor matrix board (RP2040 + W5500) controlled o
 | [E-resistor-matrix-firmware](https://github.com/ami3go/E-resistor-matrix-firmware) | RP2040 dual-core firmware for the resistor matrix board |
 | [E-resistor-matrix-python-driver](https://github.com/ami3go/E-resistor-matrix-python-driver) | Python driver (`eresistor_driver`) for SCPI-over-TCP / HTTP control from a PC |
 | [E-resistor-matrix-calibration-tool](https://github.com/ami3go/E-resistor-matrix-calibration-tool) | Calibration GUI tool for the resistor matrix (private) |
+| [E-resistor-relay-8bits](https://github.com/ami3go/E-resistor-relay-8bits) | 8-bit relay-based resistor switch board |
 
 ## Overview
 
